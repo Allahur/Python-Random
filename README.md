@@ -1,2 +1,2 @@
 # Python
-Training, neste repositório terá uns códigos comentados, em Python.
+Training, neste repositório terá uns códigos e comentários, em Python.
