@@ -1,2 +1,2 @@
 # Python Random
-Training, neste repositório terá uns códigos e comentários, em Python.
+neste repositório terá uns códigos e comentários em Python de forma aleatória.
